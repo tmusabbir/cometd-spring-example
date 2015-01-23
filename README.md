@@ -22,5 +22,4 @@ To deploy the application with Tomcat:
 Then in your browser open the following URL:
   http://localhost:8080/cometd-spring-example-1.0/spring/index
 
-  Test
   
